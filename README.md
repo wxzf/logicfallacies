@@ -1,2 +1,3 @@
-# logicfallacies
-逻辑谬误
+# 逻辑谬误
+
+Sphinx 文档，主要列举逻辑谬误……
