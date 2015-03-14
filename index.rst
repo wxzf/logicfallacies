@@ -26,5 +26,5 @@
    jbzz/tyl
 
 
-.. rubric:: Footnotes
+.. rubric:: 脚注
 .. [#issues] `问题报告地址 <https://github.com/meililvcheng/logicfallacies/issues>`_
