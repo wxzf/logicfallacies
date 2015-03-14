@@ -11,8 +11,12 @@
 ----------------------
 本网站使用Sphinx工具链进行编译，使用bizstyle主题（完美兼容手机等小屏设备，且不使用托管在google等网站的字体、脚本）。
 
-可以使用以下命令安装Sphinx：
+安装了pip的Windows、Linux操作系统均可以使用以下命令安装Sphinx：
 pip install sphinx
+
+openSUSE Linux的官方软件源已经包含了Sphinx软件包，可以使用
+sudo zypper in python-Sphinx （python2版本） 或者
+sudo zypper in python3-Sphinx （python3版本） 进行安装。
 
 最新版本的Sphinx已经内部包含bizstyle主题，若正使用旧版本Sphinx，可以使用以下命令安装bizstyle主题：
 pip install sphinxjp.themes.bizstyle
