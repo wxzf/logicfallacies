@@ -25,6 +25,16 @@
 
    jbzz/tyl
 
+命题逻辑的基本错误
+-------------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   mtlj/yunhanshi
+   mtlj/xqhq
+   mtlj/mtgx
+
 
 .. rubric:: 脚注
 .. [#issues] `问题报告地址 <https://github.com/meililvcheng/logicfallacies/issues>`_
