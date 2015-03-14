@@ -22,3 +22,11 @@ sudo zypper in python3-Sphinx （python3版本） 进行安装。
 pip install sphinxjp.themes.bizstyle
 
 考虑到mathjax的外挂js、字体体积太大，严重影响网页打开速度，本站设置使用pngmath解决潜在的数学公式渲染需求。因此编译含有数学公式的源代码需要安装LaTeX（推荐TeXLive发行版）。不过在数学公式上本网站优先考虑使用unicode字符、上标下标等功能来实现简单数学式（主要是逻辑式）的功能。这样可以减少图片的使用，也可以避免小屏设备显示中数学式图片被单行显示出现放大过度的状况。因此目前本站源码中尚未使用任何需要pngmath输出图片公式的源码。
+
+编译方法
+----------------------
+Windows操作系统：
+.\make.bat html
+
+Linux操作系统：
+make html
