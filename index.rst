@@ -14,7 +14,9 @@
 
 限于个人经验、水平有限，网站中对逻辑谬误的分类、整理、介绍或多有重复、缺漏、舛错。
 还请各位读者批评指正。
-如欲指正，请前往本站Github仓库的问题报告页面 [#issues]_ 提交问题
+如欲指正，请前往本站Github仓库的问题报告页面 [#issues]_ 提交问题。
+
+本网站可以在 `readthedocs <ljmw.rtfd.org>` 在线浏览，也可以在 `Github releases <https://github.com/meililvcheng/logicfallacies/releases>` 下载chm等格式的离线阅读材料。
 
 **以下为目录：**
 
